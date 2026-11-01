@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banners/github_1280x640.png" alt="MOON" width="100%">
+<img src="assets/banners/github_1280x640.png" alt="MOON" width="70%">
 
-<a href="https://github.com/moondevops1337">
+<div align="center"><a href="https://github.com/moondevops1337">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B794F6&center=true&vCenter=true&width=600&lines=Привет%2C+я+moon+🌙;Делаю+русификаторы+и+моды;Пишу+ботов%2C+сайты+и+скрипты;Всё+делаю+с+любовью+к+деталям" alt="Typing SVG">
-</a>
+</a></div>
 
 <br><br>
 
@@ -59,17 +59,16 @@
 
 <div align="center">
 
-<div align="center">
-<a href="https://github.com/moondevops1337?tab=repositories"><img src="assets/panels/23_projects.png" width="215" alt="Projects"></a>
-</div>
+  <div align="center">
+  <a href="https://github.com/moondevops1337?tab=repositories"><img src="assets/panels/23_projects.png" width="215" alt="Projects"></a>
+  </div>
 
-<a href="https://github.com/moondevops1337/REPO/releases"><img src="assets/panels/translation.png" width="180" alt="TRANSLATION"></a>
-<a href="https://github.com/moondevops1337/REPO/releases"><img src="assets/panels/resourcepack.png" width="180" alt="RESOURCEPACK"></a>
-<a href="https://github.com/moondevops1337/REPO"><img src="assets/panels/bots.png" width="180" alt="BOTS"></a>
-
-<a href="https://github.com/moondevops1337/REPO"><img src="assets/panels/scripts.png" width="180" alt="SCRIPTS"></a>
-<a href="https://github.com/moondevops1337/REPO"><img src="assets/panels/mod.png" width="180" alt="MOD"></a>
-<a href="https://github.com/moondevops1337/REPO/issues"><img src="assets/panels/support.png" width="180" alt="SUPPORT"></a>
+  <a href="https://github.com/moondevops1337/Gram-Vanity"><img src="assets/icons/phase_1.png" width="70" alt="Gram-Vanity"></a>
+  <a href="https://github.com/moondevops1337/Ds-Logs"><img src="assets/icons/moon_full.png" width="70" alt="Ds-Logs"></a>
+  <a href="https://github.com/moondevops1337/Ascii-Generator"><img src="assets/icons/phase_1.png" width="70" alt="Ascii-Generator"></a>
+  <a href="https://github.com/moondevops1337/Base64-Codec"><img src="assets/icons/moon_full.png" width="70" alt="Base64-Codec"></a>
+  <a href="https://github.com/moondevops1337/Random-Generator"><img src="assets/icons/phase_1.png" width="70" alt="Random-Generator"></a>
+  <a href="https://github.com/moondevops1337/Matrix"><img src="assets/icons/moon_full.png" width="70" alt="Matrix"></a>
 
 </div>
 

@@ -2,8 +2,6 @@
 
 <img src="assets/title.svg" alt="Moon / опытный программист">
 
-<img src="assets/banner.png" alt="MOON" width="100%">
-
 ---
 
 <div align="center">

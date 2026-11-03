@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="assets/title.svg" alt="Moon / опытный программист">
 
 ---

@@ -1,6 +1,8 @@
-<a href="https://github.com/moondevops1337">
-<img src="https://demolab.com!" alt="🌑 Moon / опытный программист">
-</a>
+<div align="center">
+
+<img src="assets/title.svg" alt="Moon / опытный программист">
+
+<img src="assets/banner.png" alt="MOON" width="100%">
 
 ---
 

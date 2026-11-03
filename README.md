@@ -1,4 +1,6 @@
-<img src="assets/title.svg" align="center" alt="Moon / опытный программист">
+<div align="center">
+  <img src="assets/title.svg" alt="Moon / опытный программист">
+</div>
 
 ---
 
